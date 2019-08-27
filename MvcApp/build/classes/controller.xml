@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean className="com.yun.zhe.entity.StudnetController" id="studentController" path="/api/test.do">
+</bean>
+<bean className="com.yun.zhe.controller.TeacherController" id="teacherController" path="/api/teacher.do">
+</bean>
+</beans>
